@@ -1,0 +1,9 @@
+Building BitcoinPositive
+
+See doc/readme-qt.rst for instructions on building BitcoinPositive-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinPositive.
+
+See doc/build-*.txt for instructions on building bitcoinpositived,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinPositive.
